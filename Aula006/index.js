@@ -15,6 +15,6 @@ console.log(nome);
 - Não podem conter espaços ou traços;
 - Utilizar 'camelCase' sempre que possível (let nomeCompleto = 'João Silva';);
 - Case sensitive (letras maiúsculas e minúsculas fazem diferença);
-- Não podemos redeclarar uma variável usando a palavra 'let', 'var';
+- Não podemos redeclarar uma variável usando a palavra 'let';
 - NÃO UTILIZE VAR, UTILIZE LET!
 */
